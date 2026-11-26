@@ -25,7 +25,8 @@ SHA-256 hashes and replaces only the changed files in its `bin` folder:
 - `Paradox-Setup.exe` — the installer for a fresh machine.
 - `version.json` — in-app updater manifest for module + emulator.
 - `dist/manifest.json` — full application file manifest for the installer.
-- `dist/**` — the full application payload.
+- `dist/files/**` — the full application payload (the installer appends `/files/`
+  to its base URL).
 - `Module.dll`, `RobloxPlayerBeta.dll` — standalone copies for the in-app updater.
 
 ## Publishing a new version
