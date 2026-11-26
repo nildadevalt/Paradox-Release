@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial public release: module with realtime client telemetry and emulator build.",
+  "files": [
+    {
+      "name": "Module.dll",
+      "sha256": "AA900850B3607BBBFAD73C9A368D4072B4E1E401730EC6CE1E519854F6B313DA",
+      "size": 4837888
+    },
+    {
+      "name": "RobloxPlayerBeta.dll",
+      "sha256": "15CC06D85CD45E83C1E677E7FB53BC3C3182759E340CFA41726CB8099B215781",
+      "size": 28876288
+    }
+  ]
+}
