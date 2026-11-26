@@ -1,0 +1,158 @@
+{
+    "app":  "Paradox",
+    "entry":  "Paradox.exe",
+    "version":  "1.0.0",
+    "dirs":  [
+                 "bin",
+                 "runtimes/win-x64/native",
+                 "Assets/Fonts",
+                 "scripts"
+             ],
+    "files":  [
+                  {
+                      "path":  "Anthropic.dll",
+                      "size":  9012224,
+                      "sha256":  "030ef7741ce723b5fc68685ecaec0e38c569dbaac851155e70b45ac2a9f85c9a"
+                  },
+                  {
+                      "path":  "Emoji.Wpf.dll",
+                      "size":  1076224,
+                      "sha256":  "cf7e3689516f5fc27f66e93c8ac59083d2e56df55618d5136e21645fec6f1343"
+                  },
+                  {
+                      "path":  "hava_nagila.mp3",
+                      "size":  4044879,
+                      "sha256":  "2c4043d9a9dbb5155bebb77938d5a055c1899cac18a81d13bf13e9e5f9e6dffc"
+                  },
+                  {
+                      "path":  "ICSharpCode.AvalonEdit.dll",
+                      "size":  622592,
+                      "sha256":  "0fe9ac94aa22e60b32d670a3d35c58fef628d1b3352d56f32f2986bf5f96f844"
+                  },
+                  {
+                      "path":  "Microsoft.Extensions.AI.Abstractions.dll",
+                      "size":  673592,
+                      "sha256":  "b9403048cff5238bc8fca6a5a765b4d6c8ec59dad79fc96df64669c4b70fb47c"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.Core.dll",
+                      "size":  698208,
+                      "sha256":  "24b1a6be3a7956e00d0509d4eaebf08e418fc219e964b6c269d2e04439333685"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.WinForms.dll",
+                      "size":  39264,
+                      "sha256":  "fa6b956e42cbc9368d57e062e819d1dc65bdea5f67f3bbf2c004c3e88a3c222b"
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.Wpf.dll",
+                      "size":  84320,
+                      "sha256":  "04151e577d83c6fe7a1bd1dc402b49db53ddbd1c48f031afc094b847b551bca6"
+                  },
+                  {
+                      "path":  "Module.dll",
+                      "size":  4829696,
+                      "sha256":  "50066a593cfeef227a1793a9498d04a6bf629eda22759bddf54a84039b4962a7"
+                  },
+                  {
+                      "path":  "Newtonsoft.Json.dll",
+                      "size":  723368,
+                      "sha256":  "a28c251dfe36d881e9e2462e171441b8b0ec156fe3f452602c9149b1b9efe05b"
+                  },
+                  {
+                      "path":  "Paradox.deps.json",
+                      "size":  10331,
+                      "sha256":  "4352408c114ccda9e1a3dc174f47b1659f812481217b402f1a44e86a16fcde98"
+                  },
+                  {
+                      "path":  "Paradox.dll",
+                      "size":  6239744,
+                      "sha256":  "47021410090e694f9ce790de2438f2d718a8ab065991d4282cf22ed050c0b8dc"
+                  },
+                  {
+                      "path":  "Paradox.exe",
+                      "size":  195584,
+                      "sha256":  "a3d56f2915e5105d498c9e7148ffde2cafea95ff1a70a6eaa81e7d80a425e47b"
+                  },
+                  {
+                      "path":  "Paradox.runtimeconfig.json",
+                      "size":  464,
+                      "sha256":  "0ab07ad4279a6d12301ae1eefde81fb95e86de42b5918c1f4d0955d19dccddd7"
+                  },
+                  {
+                      "path":  "Stfu.dll",
+                      "size":  19456,
+                      "sha256":  "0db7d5306e67d0ca5a435272f2b7dc0a9eb77a6021c1c691041ddc0021f2a214"
+                  },
+                  {
+                      "path":  "System.IO.Pipelines.dll",
+                      "size":  77624,
+                      "sha256":  "405bbc42dda58be56a1808dfaa5c6e714491a9244961bb60a66612bb01a8a8c8"
+                  },
+                  {
+                      "path":  "System.Net.ServerSentEvents.dll",
+                      "size":  41784,
+                      "sha256":  "6a9e5fc168ada597e74c81002d7db5cc5edd255f8dd9bbba429b5fe0814e6b6e"
+                  },
+                  {
+                      "path":  "System.Security.Cryptography.ProtectedData.dll",
+                      "size":  38736,
+                      "sha256":  "53922d67a1f7bdd7cf2941df14c85f5486e6380b288f64e53fa9ed580c6052ba"
+                  },
+                  {
+                      "path":  "System.Text.Encodings.Web.dll",
+                      "size":  66312,
+                      "sha256":  "66f4f7505f65de644a7404ad8a51fc142f4fe6c8031dc79632da2f7919923588"
+                  },
+                  {
+                      "path":  "System.Text.Json.dll",
+                      "size":  677136,
+                      "sha256":  "378bf6645fb0693af8ef7eaf325a64a2919a02ff0b21d0bf59605955a48ea826"
+                  },
+                  {
+                      "path":  "Typography.GlyphLayout.dll",
+                      "size":  27648,
+                      "sha256":  "07d669821fac46f48012b6025a7f09abe666904f3a2f0973d4b435d411dc6bc4"
+                  },
+                  {
+                      "path":  "Typography.OpenFont.dll",
+                      "size":  655360,
+                      "sha256":  "023173bce8da89cbbdf0c1ad7892c602f8492a52c84b9a930d585b57723bfdae"
+                  },
+                  {
+                      "path":  "WebView2Loader.dll",
+                      "size":  164192,
+                      "sha256":  "239a9d6614a6cfade62b47cdb0be36e3069eedc438c3e0647a9e7b7c84ef6ea0"
+                  },
+                  {
+                      "path":  "Assets/Flaticon-LICENSE.txt",
+                      "size":  3212,
+                      "sha256":  "fb5651df9951685a33e6e8a450d9cc1194956d641b46e2521493c5d7395ece4f"
+                  },
+                  {
+                      "path":  "Assets/Fonts/OFL.txt",
+                      "size":  4385,
+                      "sha256":  "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+                  },
+                  {
+                      "path":  "bin/Module.dll",
+                      "size":  4837888,
+                      "sha256":  "aa900850b3607bbbfad73c9a368d4072b4e1e401730ec6ce1e519854f6b313da"
+                  },
+                  {
+                      "path":  "bin/RobloxPlayerBeta.dll",
+                      "size":  28876288,
+                      "sha256":  "15cc06d85cd45e83c1e677e7fb53bc3c3182759e340cfa41726cb8099b215781"
+                  },
+                  {
+                      "path":  "runtimes/win-x64/native/WebView2Loader.dll",
+                      "size":  164192,
+                      "sha256":  "239a9d6614a6cfade62b47cdb0be36e3069eedc438c3e0647a9e7b7c84ef6ea0"
+                  },
+                  {
+                      "path":  "scripts/saveinstance.luau",
+                      "size":  1912,
+                      "sha256":  "988eb3b929b2c77a5a5d4fa0638ddb5ebd557947f53d5f5c3363586005a6960e"
+                  }
+              ]
+}
